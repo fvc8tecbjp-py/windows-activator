@@ -1,8 +1,6 @@
 # Windows Activator 🔐
 ![readme banner](banner.png)
 This project was made in Visual Studio 2022 17.6.5.
-## Summary
-- [Installation](Installation)
 ## Installation
 1. Download the unique [release](https://github.com/fvc8tecbjp-py/windows-activator/releases/tag/stable) and unzip it.
 2. Run <code>setup.exe</code>, it'll install the necessary framework (if not installed) and then install the program.
