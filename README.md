@@ -1,2 +1,2 @@
 # Windows Activator 🔐
-![readme banner]("./banner.png")
+![readme banner](banner.png)
