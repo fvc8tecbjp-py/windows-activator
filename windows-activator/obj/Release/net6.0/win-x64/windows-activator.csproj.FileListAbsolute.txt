@@ -1,0 +1,15 @@
+F:\projects\windows-activator\windows-activator\bin\Release\net6.0\win-x64\windows-activator.exe
+F:\projects\windows-activator\windows-activator\bin\Release\net6.0\win-x64\windows-activator.deps.json
+F:\projects\windows-activator\windows-activator\bin\Release\net6.0\win-x64\windows-activator.runtimeconfig.json
+F:\projects\windows-activator\windows-activator\bin\Release\net6.0\win-x64\windows-activator.dll
+F:\projects\windows-activator\windows-activator\bin\Release\net6.0\win-x64\windows-activator.pdb
+F:\projects\windows-activator\windows-activator\obj\Release\net6.0\win-x64\windows-activator.csproj.AssemblyReference.cache
+F:\projects\windows-activator\windows-activator\obj\Release\net6.0\win-x64\windows-activator.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\windows-activator\windows-activator\obj\Release\net6.0\win-x64\windows-activator.AssemblyInfoInputs.cache
+F:\projects\windows-activator\windows-activator\obj\Release\net6.0\win-x64\windows-activator.AssemblyInfo.cs
+F:\projects\windows-activator\windows-activator\obj\Release\net6.0\win-x64\windows-activator.csproj.CoreCompileInputs.cache
+F:\projects\windows-activator\windows-activator\obj\Release\net6.0\win-x64\windows-activator.dll
+F:\projects\windows-activator\windows-activator\obj\Release\net6.0\win-x64\refint\windows-activator.dll
+F:\projects\windows-activator\windows-activator\obj\Release\net6.0\win-x64\windows-activator.pdb
+F:\projects\windows-activator\windows-activator\obj\Release\net6.0\win-x64\windows-activator.genruntimeconfig.cache
+F:\projects\windows-activator\windows-activator\obj\Release\net6.0\win-x64\ref\windows-activator.dll

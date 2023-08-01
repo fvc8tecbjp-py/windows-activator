@@ -1,0 +1,5 @@
+F:\projects\windows-activator\release\windows-activator.exe
+F:\projects\windows-activator\release\windows-activator.dll
+F:\projects\windows-activator\release\windows-activator.deps.json
+F:\projects\windows-activator\release\windows-activator.runtimeconfig.json
+F:\projects\windows-activator\release\windows-activator.pdb
